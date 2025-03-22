@@ -1,11 +1,3 @@
-
-
-https://github.com/user-attachments/assets/593c6a23-2924-42ef-99fa-d9ed8c981336
-
-
-
-https://github.com/user-attachments/assets/bb4d055f-8abf-4ad5-98a9-52d529bc7149
-
 # Projeto de Aplicação Web Integrada com Banco de Dados
 
 Este repositório contém o código de uma aplicação web desenvolvida para demonstrar a integração entre um servidor web (Apache + PHP) e um banco de dados PostgreSQL hospedado no Amazon RDS. A aplicação consiste em duas páginas principais:
